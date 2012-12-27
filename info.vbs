@@ -1,0 +1,1 @@
+msgbox "域名www.tsher.com 已经指向 172.16.14.142 ！"
